@@ -1,0 +1,6 @@
+Step 1: Set up virtual environment
+Step 2: Add boilerplate code
+Step 3: Set up database tables
+    Step 3.5: Actually create said tables in database
+    Step 3.9: Create MArshmallow schema for tables
+Step 4: Create endpoints for crud functionality
